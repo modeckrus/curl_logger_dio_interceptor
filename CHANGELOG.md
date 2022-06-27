@@ -1,3 +1,6 @@
+## 0.0.4
+
+* -X GET FIX
 ## 0.0.3
 
 * Add `convertFormData` param (defaults: `true`) to convert `FormData` to plain `Map` so we can get

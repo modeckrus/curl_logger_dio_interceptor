@@ -1,4 +1,4 @@
-# curl_logger_dio_interceptor
+# curl_logger_dio_interceptor_modeck
 
 [![pub package](https://img.shields.io/pub/v/curl_logger_dio_interceptor.svg)](https://pub.dartlang.org/packages/curl_logger_dio_interceptor)
 

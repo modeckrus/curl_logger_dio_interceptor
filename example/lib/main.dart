@@ -1,4 +1,4 @@
-import 'package:curl_logger_dio_interceptor/curl_logger_dio_interceptor.dart';
+import 'package:curl_logger_dio_interceptor/curl_logger_dio_interceptor_modeck.dart';
 import 'package:dio/dio.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';

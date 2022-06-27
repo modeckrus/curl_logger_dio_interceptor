@@ -1,7 +1,7 @@
-name: curl_logger_dio_interceptor
+name: curl_logger_dio_interceptor_modeck
 description: Get your http requests printed as curl command in your terminal. Share them easily with your colleagues and import them in Postman!
-version: 0.0.3
-homepage: https://github.com/OwnWeb/curl_logger_dio_interceptor
+version: 0.0.4
+homepage: https://github.com/modeckrus/curl_logger_dio_interceptor
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
